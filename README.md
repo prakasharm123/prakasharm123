@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prakasharm123
+- 👋 Hi, I’m Prakash Sharma 
 - 👀 I’m interested in Software Testing, Machine Learning, Statics, Artificial intelligence
 - 🌱 I’m currently learning Software Automation Testing  
 - 💞️ I’m looking for a job in QA automation
